@@ -1,10 +1,10 @@
 # 工作中遇到的问题
 
-@ 资料总结
+@ 资料 & 总结
 
 键盘对应的key值  http://www.haorooms.com/post/js_yinghangkahao
 
-@ 解决方案：
+@ 问题 & 解决方案：
 
 echarts 导致内存泄露  http://www.haorooms.com/post/javascript_neicun_use
 
