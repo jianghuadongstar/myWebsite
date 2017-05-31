@@ -2,7 +2,11 @@
 
 @ 资料 & 总结
 
+jquery事件名称和命名空间 http://www.haorooms.com/post/jquery_namespaces_eventname
+
 键盘对应的key值  http://www.haorooms.com/post/js_yinghangkahao
+
+实用的web图标库    http://www.bootcss.com/p/font-awesome/
 
 @ 问题 & 解决方案：
 
@@ -15,36 +19,46 @@ a:active加动画ios点击无效  http://www.haorooms.com/post/ablank_nojump_noh
 
 # javascript
 
+@ 难点资料
 
 闭包的理解  http://www.haorooms.com/post/js_bbtwo
+
+javascript  廖雪峰 http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/
+
+@ 3D相关
 
 Three.js  中文文档 https://segmentfault.com/a/1190000004354129
 
 d3.js     学习教程 https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C
 
-AngularJS 菜鸟教程 http://www.runoob.com/angularjs/angularjs-scopes.html
+@ canvas相关
 
-AngularJS 实战课程简介-慕课网 http://www.imooc.com/video/4285
+canvas    慕课网   http://www.imooc.com/learn/185
+
+@ Angular相关
+
+AngularJS 菜鸟教程 http://www.runoob.com/angularjs/angularjs-scopes.html
+	      实战课程简介-慕课网 http://www.imooc.com/video/4285
+
+@ vue相关
 
 vue       菜鸟教程  http://www.runoob.com/vue2/vue-tutorial.html
           一些总结  http://mrzhang123.github.io/2016/07/14/summarize-vue/
 
-javascript廖雪峰 http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/
-
-jquery事件名称和命名空间 http://www.haorooms.com/post/jquery_namespaces_eventname
+@ Node相关
 
 Node.js   API 中文版 http://nodeapi.ucdok.com/#/api/documentation.html
 		  新方法yarn的使用：http://www.haorooms.com/post/yarn_npm	
 
+@ React相关
+
 React     入门实例教程 - 阮一峰  http://www.ruanyifeng.com/blog/2015/03/react.html
+
+@ 统计图相关
 
 Chart.js  统计图   http://www.bootcss.com/p/chart.js/docs/
 
 echarts   首页     http://echarts.baidu.com/index.html 
-
-canvas    慕课网   http://www.imooc.com/learn/185
-
-图标库    http://www.bootcss.com/p/font-awesome/
 
 
 # webpack
