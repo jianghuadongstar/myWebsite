@@ -1,6 +1,8 @@
-# 工作中遇到的问题
+# 工作中遇到的问题与资料的整理
 
 @ 资料 & 总结
+
+跨域不止有jsonp  http://www.haorooms.com/post/js_kuayu_service
 
 jquery事件名称和命名空间 http://www.haorooms.com/post/jquery_namespaces_eventname
 
@@ -9,6 +11,8 @@ jquery事件名称和命名空间 http://www.haorooms.com/post/jquery_namespaces
 实用的web图标库    http://www.bootcss.com/p/font-awesome/
 
 @ 问题 & 解决方案：
+
+定位 fixed  滑动时候出现闪动 http://www.haorooms.com/post/webapp_slide_sd
 
 echarts 导致内存泄露  http://www.haorooms.com/post/javascript_neicun_use
 
