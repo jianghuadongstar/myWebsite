@@ -11,8 +11,7 @@ AngularJS 菜鸟教程 http://www.runoob.com/angularjs/angularjs-scopes.html
 AngularJS 实战课程简介-慕课网 http://www.imooc.com/video/4285
 
 vue       菜鸟教程  http://www.runoob.com/vue2/vue-tutorial.html
-
-          的一些总结       http://mrzhang123.github.io/2016/07/14/summarize-vue/
+          一些总结  http://mrzhang123.github.io/2016/07/14/summarize-vue/
 
 javascript廖雪峰 http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/
 
