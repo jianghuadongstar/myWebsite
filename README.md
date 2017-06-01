@@ -1,4 +1,5 @@
 # 工作中遇到的问题与资料的整理
+@ 旧简历http://hr.tencent.com/preview_resume.php
 
 @ 资料 & 总结
 
