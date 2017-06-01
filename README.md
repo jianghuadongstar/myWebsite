@@ -51,8 +51,8 @@ vue       菜鸟教程  http://www.runoob.com/vue2/vue-tutorial.html
 
 @ Node相关
 
-Node.js   API 中文版 http://nodeapi.ucdok.com/#/api/documentation.html
-		  新方法yarn的使用：http://www.haorooms.com/post/yarn_npm	
+Node.js   API 中文版 http://nodejs.cn/api/
+	  新方法yarn的使用：http://www.haorooms.com/post/yarn_npm	
 
 @ React相关
 
