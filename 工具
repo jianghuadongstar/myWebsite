@@ -1,6 +1,8 @@
-一、图片工具 （智图） 在线图片压缩工具：http://zhitu.isux.us/
+# 图片工具
 
-webStorm 常用快捷键
+智图  在线图片压缩工具：http://zhitu.isux.us/
+
+# webStorm 常用快捷键
 Ctrl+/ 或 Ctrl+Shift+/	注释（// 或者/*…*/ ）
 Shift+F6	重构-重命名
 Ctrl+X	删除行
