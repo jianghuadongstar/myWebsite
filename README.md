@@ -1,6 +1,10 @@
 # 工作中遇到的问题与资料的整理
 @ 旧简历http://hr.tencent.com/preview_resume.php
 
+上线的项目：http://www.cri-c.com/fcxm/
+
+
+
 @ 资料 & 总结
 
 跨域不止有jsonp  http://www.haorooms.com/post/js_kuayu_service
