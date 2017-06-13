@@ -1,7 +1,7 @@
 # 工作中遇到的问题与资料的整理
 @ 旧简历http://hr.tencent.com/preview_resume.php
 
-上线的项目：http://www.cri-c.com/fcxm/   （2017.5意中地产网站项目）
+上线的项目：http://www.cri-c.com/   （2017.5意中地产网站项目）
 
 
 
