@@ -7,6 +7,10 @@
 
 @ 资料 & 总结
 
+大漠 w3cplus  https://www.w3cplus.com/
+
+神奇的setTimeout https://www.w3cplus.com/blog/2103.html
+
 跨域不止有jsonp  http://www.haorooms.com/post/js_kuayu_service
 
 jquery事件名称和命名空间 http://www.haorooms.com/post/jquery_namespaces_eventname
