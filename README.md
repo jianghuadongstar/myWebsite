@@ -7,6 +7,8 @@
 
 @ 资料 & 总结
 
+移动端适配 手淘方案：https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html
+
 大漠 w3cplus  https://www.w3cplus.com/
 
 神奇的setTimeout https://www.w3cplus.com/blog/2103.html
