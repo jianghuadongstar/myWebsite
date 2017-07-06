@@ -38,6 +38,8 @@ a:active加动画ios点击无效  http://www.haorooms.com/post/ablank_nojump_noh
 
 ### @ 难点资料
 
+ES6 http://es6.ruanyifeng.com/ 入门教程
+
 闭包的理解  http://www.haorooms.com/post/js_bbtwo
 
 javascript  廖雪峰 http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/
