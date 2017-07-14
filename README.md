@@ -44,11 +44,19 @@ ES6 http://es6.ruanyifeng.com/ 入门教程
 
 javascript  廖雪峰 http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/
 
-### @ 3D相关
+### @ 3D  VS  数据可视化
+
+d3.js官网： http://d3js.org/ 
+d3.js入门：http://www.jianshu.com/p/c3800c61d2fb
+d3.js中文api：http://blog.mn886.net/chenjianhua/show/773c07b3abce/index.html
+d3.js git：https://github.com/d3/d3/wiki/API-中文手册
+
+#### ECharts-X api：  http://echarts.baidu.com/echarts2/x/doc/cn/article/getting_started.html
+
+webgl      入门教程  http://blog.csdn.net/column/details/webgl.html
+           极客学院  http://wiki.jikexueyuan.com/project/webgl/webgL-shaders-and-glsl.html
 
 Three.js  中文文档 https://segmentfault.com/a/1190000004354129
-
-d3.js     学习教程 https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C
 
 ### @ canvas相关
 
