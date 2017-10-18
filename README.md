@@ -5,6 +5,8 @@
 
 变量命名网址(在线)： http://unbug.github.io/codelf/
 
+sprite 小图标合成：https://www.toptal.com/developers/css/sprite-generator
+
 
 
 ## @ 资料 & 总结
