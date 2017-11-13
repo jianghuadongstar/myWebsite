@@ -7,6 +7,12 @@
 
 sprite 小图标合成：https://www.toptal.com/developers/css/sprite-generator
 
+## ajax 参数带有%20 的时候的坑
+$.ajax()中参数中字符串带有’%20‘的时候，contentType默认值为：contentType: "application/x-www-form-urlencoded",
+这时候参数中的%20会被解析为‘ ’ 导致出现问题
+
+解决方案
+contentType: "application/json",
 
 
 ## @ 资料 & 总结
