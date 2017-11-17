@@ -91,6 +91,7 @@ Node.js   API 中文版 http://nodejs.cn/api/
 
 React     入门实例教程 - 阮一峰  http://www.ruanyifeng.com/blog/2015/03/react.html
           菜鸟教程   http://www.runoob.com/react/react-tutorial.html
+	  react小书  http://huziketang.com/books/react/lesson1
 
 ### @ 统计图相关
 
