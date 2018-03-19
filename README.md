@@ -15,6 +15,13 @@ $.ajax()中参数中字符串带有’%20‘的时候，contentType默认值为�
 contentType: "application/json",
 
 
+## ?.  !.
+?. 链判断运算符:(es6)
+
+?. 安全导航操作符: 是在属性路径中保护空值的更加流畅、便利的方式。 表达式会在它遇到第一个空值的时候跳出。 显示是空的，但应用正常工作，而没有发生错误。(angular)
+
+!. 非空断言运算符(typescript)
+
 ## @ 资料 & 总结
 
 Ionic  创建webapp：https://www.w3cplus.com/mobile/building-simple-app-using-ionic-advanced-html5-mobile-app-framework.html
