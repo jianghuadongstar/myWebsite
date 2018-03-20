@@ -22,6 +22,14 @@ contentType: "application/json",
 
 !. 非空断言运算符(typescript)
 
+## 浏览器cookie问题
+不同浏览器  对cookie的存储过程处理不同  
+存的时候$.cookie("key", val, {path: "/monitoring/"});
+删除的时候$.cookie("key", null, {path: "/monitoring/"});
+
+必须指定完全相同path，不然会出现兼容问题 
+
+
 ## @ 资料 & 总结
 
 Ionic  创建webapp：https://www.w3cplus.com/mobile/building-simple-app-using-ionic-advanced-html5-mobile-app-framework.html
