@@ -34,3 +34,45 @@
          var cat1 = new Cat("大毛","黄色");
          alert(cat1.species); // 动物
      */
+
+
+// ## 拷贝
+
+ /**
+     * extend  深层拷贝
+     * @param c   子
+     * @param p  父
+     */
+　function deepCopy(p, c) {
+
+　　　　var c = c || {};
+
+　　　　for (var i in p) {
+
+　　　　　　if (typeof p[i] === 'object') {
+
+　　　　　　　　c[i] = (p[i].constructor === Array) ? [] : {};
+
+　　　　　　　　deepCopy(p[i], c[i]);
+
+　　　　　　} else {
+
+　　　　　　　　　c[i] = p[i];
+
+　　　　　　}
+　　　　}
+
+　　　　return c;
+　　}
+
+/*   eg:
+     var Doctor = deepCopy(Chinese);
+     
+  　　Chinese.birthPlaces = ['北京','上海','香港'];
+    
+　　  Doctor.birthPlaces.push('厦门');
+　　
+     alert(Doctor.birthPlaces); //北京, 上海, 香港, 厦门
+　  　alert(Chinese.birthPlaces); //北京, 上海, 香港
+
+*/
