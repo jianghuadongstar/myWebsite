@@ -29,6 +29,24 @@ contentType: "application/json",
 
 必须指定完全相同path，不然会出现兼容问题 
 
+## js全局错误监听
+
+    // 在index.html
+    window.onerror = function(errorMessage, scriptURI, lineNo, columnNo, error) {
+      console.log('errorMessage: ' + errorMessage); // 异常信息
+      console.log('scriptURI: ' + scriptURI); // 异常文件路径
+      console.log('lineNo: ' + lineNo); // 异常行号
+      console.log('columnNo: ' + columnNo); // 异常列号
+      console.log('error: ' + error); // 异常堆栈信息
+      // ...
+      // 异常上报
+    };
+
+作者：counterxing
+链接：https://juejin.im/post/5b5dcfb46fb9a04f8f37afbb
+来源：掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 
 ## @ 资料 & 总结
 
