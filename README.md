@@ -1,5 +1,5 @@
 # 工作中遇到的问题与资料的整理
-@ 我的主页 ：https://jianghuadongstar.github.io/jiangHD.github.io/
+@ 我的主https://jianghuadongstar.github.io/jiangHD/index.html
 
 最近上线的项目：http://www.cri-c.com/   （2017.5意中地产网站项目）
 
