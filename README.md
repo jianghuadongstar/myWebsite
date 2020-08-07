@@ -1,7 +1,7 @@
 # 工作中遇到的问题与资料的整理
 @ 我的主https://jianghuadongstar.github.io/jiangHD/index.html
 
-最近上线的项目：http://www.cri-c.com/   （2017.5意中地产网站项目）
+我的百度脑图: https://naotu.baidu.com/file/305056f765ec890c6e2b2314de8f54d5
 
 变量命名网址(在线)： http://unbug.github.io/codelf/
 
